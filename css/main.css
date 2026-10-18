@@ -1,0 +1,135 @@
+img {
+  max-width: 50%;
+}
+.quitar-float {
+  float: none;
+}
+.margin-top {
+  margin-top: 100px;
+}
+
+.margin-right {
+  margin-right: 1em;
+}
+.pacifico {
+  font-family: "Pacifico", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+.grande {
+  font-size: 4em;
+}
+.lato-thin {
+  font-family: "Lato", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.lato-light {
+  font-family: "Lato", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.lato-regular {
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.lato-bold {
+  font-family: "Lato", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.lato-black {
+  font-family: "Lato", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+.lato-thin-italic {
+  font-family: "Lato", sans-serif;
+  font-weight: 100;
+  font-style: italic;
+}
+
+.lato-light-italic {
+  font-family: "Lato", sans-serif;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.lato-regular-italic {
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.lato-bold-italic {
+  font-family: "Lato", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.lato-black-italic {
+  font-family: "Lato", sans-serif;
+  font-weight: 900;
+  font-style: italic;
+}
+
+.verde {
+  color: #1b831b;
+}
+a {
+  color: #1d10d7;
+  text-decoration: none;
+}
+
+.no-lista li {
+  list-style-type: none;
+}
+
+.no-lista {
+  padding: 0px;
+  margin: 0px;
+}
+
+.se-gris {
+  background-color: #a9a9a9;
+}
+
+.padding-largo {
+  padding: 5px 10px;
+}
+.inline-block {
+  float: none;
+  display: inline-block;
+  margin-right: -4px;
+}
+
+a,
+.azul {
+  color: #1d10d7;
+  text-decoration: none;
+}
+
+.vertical-align {
+  vertical-align: top;
+}
+
+.mediano {
+  font-size: 1.5em;
+}
+
+.retraso-1 {
+  -webkit-animation-delay: 1s;
+  -moz-animation-delay: 1s;
+  animation-delay: 1s;
+}
+.retraso-2 {
+  -webkit-animation-delay: 2s;
+  -moz-animation-delay: 2s;
+  animation-delay: 2s;
+}
